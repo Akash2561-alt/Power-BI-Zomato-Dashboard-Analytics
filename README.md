@@ -59,6 +59,6 @@ ________________________________________
 •	Regional Insights: Identifies cities with the highest dining density and consumer preferences.
 ________________________________________
 6. Screenshots / Demos
-•	Dashboard Overview Snapshot ().
+•	Dashboard Overview Snapshot (https://github.com/Akash2561-alt/Power-BI-Zomato-Dashboard-Analytics/blob/main/Dashboard_ZOmatoProject%20(1).png).
 
 
